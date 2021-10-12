@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vamsi-IITI / Raghuvamsi Bokka from I.I.T Indore Mechanical Engineering B.Tech (2020 - 2024 )
-- 👀 I’m interested in contributing something to the society and nation through technology
+- 👀 I’m interested in contributing something for the society and nation development through technology
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... raghuvamsibokka5@gmail.com 
