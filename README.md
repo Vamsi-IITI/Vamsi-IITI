@@ -2,7 +2,7 @@
 - 👀 I’m interested in contributing something for the development of society and nation through technology and knowledge
 - 🌱 My interests lie in fields of Robotics , AI and mechanical engineering
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... raghuvamsibokka5@gmail.com 
+- 📫 How to reach me ... rvb20ubuntu@gmail.com 
 
 <!---
 Vamsi-IITI/Vamsi-IITI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
