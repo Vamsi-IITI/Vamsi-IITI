@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vamsi-IITI / Raghuvamsi Bokka from I.I.T Indore Mechanical Engineering B.Tech (2020 - 2024 )
+- 👋 Hi, I’m @Vamsi-IITI / Vamsi from I.I.T Indore Mechanical Engineering B.Tech 
 - 👀 I’m interested in contributing something for the development of society and nation through technology and knowledge
 - 🌱 My interests lie in fields of Robotics , AI and mechanical engineering
 - 💞️ I’m looking to collaborate on ...
